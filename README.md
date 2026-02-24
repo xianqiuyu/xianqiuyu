@@ -24,5 +24,6 @@
 
 - **工程化 / Hooks 类**
   - `react-hooks-collection`：高质量业务级 Hooks 集合（useRequest / useVirtualList / useInfiniteScroll / useDebounceFn / useLocalStorage / useWebSocket 等）
+  - `mini-webpack`：迷你版 Webpack（依赖解析 + 模块打包 + runtime require），用于理解 Webpack 的核心打包流程与模块系统设计
   - `mini-bundler`：实现 AST 解析、依赖图、Loader / Plugin / Babel 打包流程的迷你打包器
 
