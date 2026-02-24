@@ -13,6 +13,8 @@
 - **源码类**
   - `mini-vue3`：从零实现 Vue3 核心响应式、computed、虚拟 DOM 渲染器
   - `mini-react`：实现 React Fiber / Hooks / Scheduler 的迷你版本
+  - `vue3-source-analysis`：Vue3 源码阅读笔记（响应式 / 虚拟 DOM / 编译器 / 组件系统），配套 mini-vue3，一起展示你对框架内部实现的理解
+  - `react-source-analysis`：React 源码阅读笔记（Fiber 架构 / Reconciliation / Hooks 原理 / Scheduler），配套 mini-react，体现你对 React16+ 内核的掌握
 
 - **组件库类**
   - `vue3-component-lib`：参考 Element Plus 设计的 Vue3 组件库（Button / Input / Select / Tag / Alert / Modal / Card / Tabs / Pagination / Tree / 虚拟滚动 Table），自带 playground 组件总览页
